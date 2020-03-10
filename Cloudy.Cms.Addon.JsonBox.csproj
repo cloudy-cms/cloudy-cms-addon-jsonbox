@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Cloudy.Cms.Addon.JsonBox</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\cloudy-cms\Cloudy.CMS\Cloudy.CMS.csproj" />
+  </ItemGroup>
+
+</Project>
